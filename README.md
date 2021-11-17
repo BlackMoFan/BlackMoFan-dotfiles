@@ -9,26 +9,21 @@
 - vim config
   - Plugins are managed with [vim-Vundle](https://github.com/VundleVim/Vundle.vim)
 - tmux config
-- bash config
 - zsh config
 
 ## Vim setup
 
-- [vim-plug](https://github.com/junegunn/vim-plug) - A minimalist Vim plugin manager
-- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - A collection of configurations for Neovim's built-in LSP
-- [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - [Treesitter](https://github.com/tree-sitter/tree-sitter) configurations and abstraction layer for Neovim
-- [nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua
-- [lspsaga.nvim](https://github.com/tami5/lspsaga.nvim) - A light-weight LSP plugin based on Neovim built-in LSP with highly a performant UI
-- [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - A highly extendable fuzzy finder over lists
-- [defx.nvim](https://github.com/Shougo/defx.nvim) - A file explorer
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle is short for Vim bundle and is a Vim plugin manager.
+- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntastic is a syntax checking plugin for Vim
+- [auto-pairs](https://github.com/jiangmiao/auto-pairs) Vim plugin to insert or delete brackets, parens, quotes in pair.
+- [vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - autoformatting dev files
+- [unite.vim](https://github.com/Shougo/unite.vim) - Needed by Vimfiler
+- [vimfiler.vim](https://github.com/Shougo/vimfiler.vim) - A powerful file explorer implemented in Vim script
+- [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Vim development icons
 
 ## Shell setup
 
-- [Fish shell](https://fishshell.com/)
-- [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
-- [Tide](https://github.com/IlanCosman/tide) - Shell theme. Use version 5: `fisher install ilancosman/tide@v5`
-- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts. I use Hack.
-- [z for fish](https://github.com/jethrokuan/z) - Directory jumping
-- [Exa](https://the.exa.website/) - `ls` replacement
-- [ghq](https://github.com/x-motemen/ghq) - Local Git repository organizer
-- [peco](https://github.com/peco/peco) - Interactive filtering
+- [oh-my-zsh-zsh](https://ohmyz.sh/) - open source, community-driven framework for managing Zsh configuration.
+- [tmux](https://github.com/tmux/tmux) - terminal multiplexer
+- [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts.
+- [z for zsh](https://github.com/jethrokuan/z) - Directory jumping
