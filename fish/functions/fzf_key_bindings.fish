@@ -1,0 +1,1 @@
+/home/blackmofan/.fzf/shell/key-bindings.fish
